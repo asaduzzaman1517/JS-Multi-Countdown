@@ -7,3 +7,5 @@ Pluralization<br>
 Time zones<br>
 Timer Mode<br>
 Configurable Zero Padding
+
+https://www.jqueryscript.net/time-clock/event-countdown-timer-multi.html
